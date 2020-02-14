@@ -9,3 +9,5 @@ RSME
 岭回归和Lasso回归
 2.Softmax
 对于多分类，把输出转换成总和为1的概率。
+3.cross entropy
+由极大似然函数推导出
