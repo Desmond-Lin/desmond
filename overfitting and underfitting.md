@@ -10,3 +10,5 @@
 1.L1,L2正则化
 
 2.Dropout:在hidden layer后加一个dropout层，所有hidden layer的神经元有p概率被drop掉，有1-p概率被按照1-p的比例拉伸
+
+3.加多点数据
